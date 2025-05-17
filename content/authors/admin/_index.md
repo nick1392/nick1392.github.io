@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:niccolo.bisagno@gmail.com'
     label: E-mail Me (General)
- - icon: brands/github
+  - icon: brands/github
     url: https://github.com/mmlab-cv
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/niccol%C3%B2-bisagno/
