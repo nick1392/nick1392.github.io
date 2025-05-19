@@ -58,7 +58,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://iris.unitn.it/retrieve/handle/11572/256722/315563/Phd_thesis__Bisagno.pdf'
-  - area: Master degreee in Telecommunications Engineering
+  - area: Master degree in Telecommunications Engineering
     institution: University of Trento
 work:
   - position: Assistant Professor (RTD-a)
