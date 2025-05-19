@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Niccolò Bisagno's Personal Webpage
+title: Niccolò Bisagno
 
 # Name pronunciation (optional)
 name_pronunciation: ''
