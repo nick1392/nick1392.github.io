@@ -49,51 +49,31 @@ interests:
   - Sport
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Information and Communication Technologies
+    institution: University of Trento
+    date_start: 2016-11-01
+    date_end: 2020-04-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on simulating and predicting pedestrian trajectories in a crowd. Supervised by [Prof. Nicola Conci](https://webapps.unitn.it/du/en/Persona/PER0003698/Curriculum).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://iris.unitn.it/retrieve/handle/11572/256722/315563/Phd_thesis__Bisagno.pdf'
+  - area: Telecommunications Engineering
+    institution: University of Trento
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Professor (RTD-a)
+    company_name: University of Trento
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-01-30
+    date_end: 2026-01-30
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Post Doctoral Researcher
+    company_name: University of Trento
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -109,31 +89,31 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Coding
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
-      - name: Data Science
+      - name: Design Thinking
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: fa fa-question
+      - name: Writing
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: fa fa-pencil-square-o
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sports (Basketball :))
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+      - name: Food
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Concerts
         description: ''
         percent: 80
         icon: camera
