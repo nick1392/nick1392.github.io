@@ -69,9 +69,12 @@ work:
     date_end: 2026-01-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      1. Project Manager for the PNRR-funded iNest project (€4.2M).
+      2. Leading a research team with PhD students, research collaborators, and international partners.
+      3. Published oral papers in top Computer Vision conferences (CVPR, ICCV).
+      4. Developing deep learning-based solutions for sports analysis in Python in collaboration with external
+      organizations.
+      5. Teaching Segnali, Visione e Riconoscimento (Bachelor) and Computer Vision (Master) courses.
   - position: Post Doctoral Researcher
     company_name: University of Trento
     company_url: ''
@@ -80,9 +83,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      1. Leading team research with PhD students, research collaborators and internationals.
+      2. Published papers accepted as Orals in main Computer Vision conferences (CVPR, ICCV) .
+      3. Developing solutions with external organizations for sports analysis using deep learning techniques in Python.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
