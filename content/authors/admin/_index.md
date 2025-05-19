@@ -99,11 +99,11 @@ skills:
       - name: Design Thinking
         description: ''
         percent: 100
-        icon: fa fa-question
+        icon: lamp
       - name: Writing
         description: ''
         percent: 90
-        icon: fa fa-pencil-square-o
+        icon: pen
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

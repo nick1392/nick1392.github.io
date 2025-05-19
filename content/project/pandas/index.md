@@ -8,6 +8,6 @@ tags:
   - Pucce
 ---
 
-If you want tailor made reccomandation for eating out (pappe), partying (bande) or take a dip (pucce).
+If you want tailor made recommendation for eating out (pappe), partying (bande), where to pitch a tent (nanne)  or take a dip (pucce).
 
 <!--more-->
